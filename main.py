@@ -13,8 +13,8 @@ from pystyle import Colors, Colorate
 
 from cpmbekaa import CPMBekaa
 
-__CHANNEL_USERNAME__ = "shaaw81"
-__GROUP_USERNAME__   = "uuwg92s"
+__CHANNEL_USERNAME__ = "Banan4ik213"
+__GROUP_USERNAME__   = "Banan4ik717"
 
 def signal_handler(sig, frame):
     print("\n Bye Bye...")
